@@ -1,0 +1,25 @@
+{
+  "name": "npmpackage",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjdelly/hj-npmPackage.js.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "hjdelly <jeremyhansond@yahoo.fr> (https://www.npmjs.com/~hjdelly)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjdelly/hj-npmPackage.js/issues"
+  },
+  "homepage": "https://github.com/hjdelly/hj-npmPackage.js#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
